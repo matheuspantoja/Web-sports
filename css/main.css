@@ -10,15 +10,14 @@
 padding-top: 10px;
 padding-bottom: 10px;}
 
-div.media2 {
-	padding-top: 10PX;
-	padding-bottom: 20PX;
-padding-left: 110px;
- float: left
- }
+.jogo { 
+background-color: #282c33;
+color: white;
+margin: 0 5px; }
 
-div.break { clear: both; }
-
+.jogo > div {
+	padding-top: 10px:;
+}
 
 
 
