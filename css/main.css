@@ -10,6 +10,15 @@
 padding-top: 10px;
 padding-bottom: 10px;}
 
+div.media2 {
+	padding-top: 10PX;
+	padding-bottom: 20PX;
+padding-left: 110px;
+ float: left
+ }
+
+div.break { clear: both; }
+
 
 
 
